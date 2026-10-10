@@ -15,7 +15,7 @@
 
 **Custom Analog S-Meter & SWR Widget:** Built-in QPainter custom widget replicating professional dual-scale S-meters with standard S-units, dB increments (+20, +40, +60dB), an SWR scale, and real-time peak-hold decay.
 
-**Precision VFO Tuning Dial:** Interactive rotary tuning knob styled after flagship receivers (like the Icom IC-R8600) supporting smooth mouse drag rotation, mouse wheel frequency steps, and circular hardware-style UP/DOWN arrow buttons.  
+**Precision VFO Tuning Dial:** Interactive rotary tuning knob styled after flagship receivers supporting smooth mouse drag rotation, mouse wheel frequency steps, and circular hardware-style UP/DOWN arrow buttons.  
 
 **Flexible Step Sizes & Band Selection:** Quick-select tuning step buttons (10 Hz, 100 Hz, 1 kHz, 10 kHz) alongside a 9-band preset matrix covering amateur HF allocations from 80m through 10m.   In-Band Lock Protection: Optional toggle lock that restricts tuning and direct frequency entry strictly within legal amateur band boundaries.   
 
