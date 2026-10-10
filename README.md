@@ -1,7 +1,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 
-# Barrett 2050 CAT Control by ZL1RFF - Documentation in Progress...
+# Barrett 2050 CAT Control by ZL1RFF - This is a work in progress..
 
 🚀 ***Key Features***
 
