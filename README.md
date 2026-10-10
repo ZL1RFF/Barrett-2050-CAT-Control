@@ -3,6 +3,9 @@
 
 # Barrett 2050 CAT Control by ZL1RFF - This is a work in progress..
 
+<img width="530" height="912" alt="CAT" src="https://github.com/user-attachments/assets/901e1cb3-fdca-457a-a329-6be0d6073a99" />
+
+
 🚀 ***Key Features***
 
 **Intelligent COM Port Management:** Automatically detects available system serial ports with a priority default to COM3, featuring a live dropdown selector and manual port refresh utility.  
