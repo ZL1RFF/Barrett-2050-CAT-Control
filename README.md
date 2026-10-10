@@ -3,9 +3,6 @@
 
 # Barrett 2050 CAT Control by ZL1RFF - Documentation in Progress...
 
-**Barrett 2050 HF Transceiver CAT Control**
-A feature-rich, modern PyQt6 graphical user interface (GUI) designed for remote CAT control and monitoring of the Barrett 2050 High Frequency (HF) Transceiver via RS-232 serial communication. Engineered with a tactical, dark-themed hardware aesthetic inspired by professional radio equipment.
-
 🚀 ***Key Features***
 
 **Intelligent COM Port Management:** Automatically detects available system serial ports with a priority default to COM3, featuring a live dropdown selector and manual port refresh utility.  
